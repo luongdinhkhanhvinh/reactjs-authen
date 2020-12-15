@@ -1,6 +1,6 @@
 {
   "name": "vinhldk-authentication",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A nice greeter",
   "main": "lib/vinhldk.js",
   "types": "lib/vinhldk.d.ts",
