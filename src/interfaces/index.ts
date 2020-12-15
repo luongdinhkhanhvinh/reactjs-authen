@@ -1,0 +1,1 @@
+export { AuthenticationInterface } from './authenticationInterface';

@@ -1,0 +1,1 @@
+{"version":3,"file":"illegalParameterError.js","sourceRoot":"","sources":["../../src/errors/illegalParameterError.ts"],"names":[],"mappings":";;;AAAA,mDAAgD;AAEhD,MAAa,qBAAsB,SAAQ,6BAAa;IACtD,YAAY,SAAiB,EAAE,YAAoB,EAAE,OAAe;QAClE,KAAK,CAAC,SAAS,EAAE,YAAY,EAAE,GAAG,EAAE,uBAAuB,EAAE,OAAO,CAAC,CAAC;IACxE,CAAC;CACF;AAJD,sDAIC"}

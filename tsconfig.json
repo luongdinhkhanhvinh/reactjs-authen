@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "lib",
+    "strict": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "rootDirs": ["src", "lib"],
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "include": ["src/**/*", "tests"],
+  "exclude": [
+    "node_modules",
+    "tests",
+    "tslint:recommended",
+    "tslint-config-prettier" 
+  ],
+  
+}
