@@ -1,9 +1,8 @@
 {
-  "name": "vinhldk-authentication",
-  "version": "0.0.2",
-  "description": "A nice greeter",
-  "main": "lib/vinhldk.js",
-  "types": "lib/vinhldk.d.ts",
+  "name": "vinhldk-authencation",
+  "version": "1.0.0",
+  "description": "Verry nice",
+  "main": "index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
@@ -19,7 +18,7 @@
     "Hello",
     "Greeter"
   ],
-  "author": "vinhldk",
+  "author": "vinhkhanh",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^26.0.7",
